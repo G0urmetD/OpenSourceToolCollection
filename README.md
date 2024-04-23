@@ -5,7 +5,7 @@ Just a tool collection for opensource and free tools.
 - WikiJS (https://js.wiki/)
 - Open Policy Agent (https://www.openpolicyagent.org/)
 - penta (https://www.openpolicyagent.org/)
-- Atlas (https://www.openpolicyagent.org/)
+- Atlas (https://github.com/Atlas-OS/Atlas)
 - Hermes Secure E-Mail Gateway (https://github.com/deeztek/Hermes-Secure-Email-Gateway)
 - Scanners Box (https://github.com/We5ter/Scanners-Box)
 - ProxMox (https://www.proxmox.com/de/proxmox-mail-gateway)
